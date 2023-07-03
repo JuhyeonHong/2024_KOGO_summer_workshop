@@ -35,7 +35,8 @@ https://www.dropbox.com/sh/fxnr5uz3a3e56jx/AAC07lmF0D8dN8MNk50tuhdla?dl=0
 
 
 ### :orange_book: Documentation for this session can be viewed/downloaded as
-* hands-on ppt 
+* hands-on ppt
+  https://github.com/JuhyeonHong/2023_KOGO_summer_workshop/blob/main/KOGO_spatialTranscriptomics_documentation.pptx        
   
 * Rscript
   https://github.com/JuhyeonHong/2023_KOGO_summer_workshop/blob/main/KOGO_spatialTranscriptomics_documentation.R      
