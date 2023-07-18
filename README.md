@@ -9,7 +9,12 @@
 
 * Download packages
 ```
-options(timeout = 600000000) ### set this to avoid timeout error
+options(timeout = 600000000)
+install.packages("BiocManager")
+BiocManager::install("ComplexHeatmap")
+BiocManager::install("BiocNeighbors")
+BiocManager::install("BiocGenerics")
+BiocManager::install("Biobase")
 install.packages("hdf5r") 
 install.packages("dplyr")
 install.packages('Seurat')
@@ -18,15 +23,13 @@ install.packages("remotes")
 install.packages("anndata")
 install.packages("cowplot")
 install.packages("devtools")
-BiocManager::install("ComplexHeatmap")
-BiocManager::install("BiocNeighbors")
-BiocManager::install("Biobase")
 devtools::install_github("thomasp85/patchwork")
 devtools::install_github('satijalab/seurat-data')
 devtools::install_github("dmcable/spacexr", build_vignettes = FALSE)
 remotes::install_github("mojaveazure/seurat-disk")
 remotes::install_github("sqjin/CellChat")
 remotes::install_github("jbergenstrahle/STUtility")
+
 ```
              
                        
