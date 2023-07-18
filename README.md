@@ -29,7 +29,6 @@ devtools::install_github("dmcable/spacexr", build_vignettes = FALSE)
 remotes::install_github("mojaveazure/seurat-disk")
 remotes::install_github("sqjin/CellChat")
 remotes::install_github("jbergenstrahle/STUtility")
-
 ```
              
                        
