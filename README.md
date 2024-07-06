@@ -33,7 +33,7 @@ remotes::install_github("jbergenstrahle/STUtility")
              
                        
 * Download dataset       
-https://www.dropbox.com/sh/fxnr5uz3a3e56jx/AAC07lmF0D8dN8MNk50tuhdla?dl=0
+Coming soon
 
 <h1>
   
@@ -42,10 +42,10 @@ https://www.dropbox.com/sh/fxnr5uz3a3e56jx/AAC07lmF0D8dN8MNk50tuhdla?dl=0
 
 ### :orange_book: Documentation for this session can be viewed/downloaded as
 * Hands-on ppt       
-  https://github.com/JuhyeonHong/2023_KOGO_summer_workshop/blob/main/KOGO_spatialTranscriptomics_documentation.pptx        
+  Coming soon        
   
 * Rscript         
-  https://github.com/JuhyeonHong/2023_KOGO_summer_workshop/blob/main/KOGO_summer_scripts.R
+  Coming soon
   
   
   
