@@ -11,15 +11,6 @@ https://www.dropbox.com/scl/fi/1ebgavu7y3ho882h0jj9p/KOGO_workshop_materials_01.
 
 * Hands-on ppt      https://www.dropbox.com/scl/fi/xu33z91y4f6lt4ip18ddr/KOGO_summer_workshop_materials_v2.pdf?rlkey=p1lhvkf7noceblaqd0ko88k87&st=imtud43r&dl=0
   
-<h1>
-
-</h1>
-### :blue_book: Public data
- * Dataset     
-https://www.10xgenomics.com/products/visium-hd-spatial-gene-expression/dataset-human-crc
-
- * Material      
-https://github.com/10XGenomics/HumanColonCancer_VisiumHD
 
 <h1>
 
