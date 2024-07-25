@@ -34,12 +34,7 @@ https://github.com/10XGenomics/HumanColonCancer_VisiumHD
    https://doi.org/10.1016/j.cell.2021.04.048    
    
  * SpaceXR     
-   https://github.com/dmcable/spacexr     
-   
- * Squidpy     
-   https://github.com/scverse/squidpy    
-   https://squidpy.readthedocs.io/en/stable/    
-   https://doi.org/10.1038/s41592-021-01358-2    
+   https://github.com/dmcable/spacexr        
 
  * CellChat      
    https://github.com/sqjin/CellChat   
