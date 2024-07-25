@@ -12,7 +12,7 @@
 
 * Hands-on ppt
   
-  https://www.dropbox.com/scl/fi/fpr4xjf40dxdt2dl9h6ff/KOGO_workshop_materials_02.pdf?rlkey=owh3b21wtcd3k9lbyl5632x84&st=zu81vsqy&dl=0
+  https://www.dropbox.com/scl/fi/xu33z91y4f6lt4ip18ddr/KOGO_summer_workshop_materials_v2.pdf?rlkey=p1lhvkf7noceblaqd0ko88k87&st=imtud43r&dl=0
   
 <h1>
   
