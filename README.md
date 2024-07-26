@@ -42,4 +42,4 @@ https://github.com/10XGenomics/HumanColonCancer_VisiumHD
    https://pubmed.ncbi.nlm.nih.gov/33597522/
 
  * Xenium       
-  https://www.10xgenomics.com/support/software/xenium-explorer/latest)      
+  https://www.10xgenomics.com/support/software/xenium-explorer/latest     
