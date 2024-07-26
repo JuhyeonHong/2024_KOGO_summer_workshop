@@ -33,12 +33,12 @@ https://github.com/10XGenomics/HumanColonCancer_VisiumHD
  * Seurat      
    https://doi.org/10.1016/j.cell.2021.04.048    
    
- * SpaceXR     
+ * SpaceXR (RCTD)      
    https://github.com/dmcable/spacexr        
 
  * CellChat      
    https://github.com/sqjin/CellChat   
    https://pubmed.ncbi.nlm.nih.gov/33597522/
 
- * STUtility        
-  https://github.com/jbergenstrahle/STUtility         
+ * Xenium       
+  https://www.10xgenomics.com/support/software/xenium-explorer/latest)      
