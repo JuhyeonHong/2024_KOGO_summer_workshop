@@ -5,7 +5,7 @@
 </h1>
 
 
-### Documentation for this session
+# Documentation for this session
 * Lecture ppt    
 https://www.dropbox.com/scl/fi/1ebgavu7y3ho882h0jj9p/KOGO_workshop_materials_01.pdf?rlkey=s4p7hkg2rykb6m3x52j09nmnb&st=i99ns8lc&dl=0
 
@@ -17,7 +17,7 @@ https://www.dropbox.com/scl/fi/1ebgavu7y3ho882h0jj9p/KOGO_workshop_materials_01.
 
 </h1>
 
-### :yellow_circle: Public data
+# Public data
  * Dataset     
 https://www.10xgenomics.com/products/visium-hd-spatial-gene-expression/dataset-human-crc
 
@@ -29,7 +29,7 @@ https://github.com/10XGenomics/HumanColonCancer_VisiumHD
 
 </h1>
 
-### :green_circle: Data
+# Data
 https://www.dropbox.com/scl/fo/9p6tk02ba1w3au3y4ny2n/ALgo4YCHgmSO4C1aZTbEx0M?rlkey=k74hkcizwxv5wa56g1iqhi33x&dl=0
 
 
@@ -38,7 +38,7 @@ https://www.dropbox.com/scl/fo/9p6tk02ba1w3au3y4ny2n/ALgo4YCHgmSO4C1aZTbEx0M?rlk
 </h1>
 
   
-### :purple_circle: Reference
+# Reference
  * Seurat      
    https://doi.org/10.1016/j.cell.2021.04.048    
    
