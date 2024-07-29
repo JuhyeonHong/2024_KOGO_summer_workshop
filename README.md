@@ -5,7 +5,7 @@
 </h1>
 
 
-### :red_circle: Documentation for this session
+### Documentation for this session
 * Lecture ppt    
 https://www.dropbox.com/scl/fi/1ebgavu7y3ho882h0jj9p/KOGO_workshop_materials_01.pdf?rlkey=s4p7hkg2rykb6m3x52j09nmnb&st=i99ns8lc&dl=0
 
